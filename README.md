@@ -1,2 +1,0 @@
-# PikabuisArraySortTry
-Created with CodeSandbox
